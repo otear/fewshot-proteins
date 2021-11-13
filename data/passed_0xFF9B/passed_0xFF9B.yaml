@@ -1,0 +1,8 @@
+---
+sequence_id: 0xFF9B
+sequence_amino: "MAGAKGAEHHGAHAEHHAQAAKHHHAEHEKGEHEGAAHHADTAYAHTKHAEEHAAQAAKHDIEHGAPKIA"
+multi_target: false
+is_prokaryote: false
+tests_passed:
+	rightAmino: true
+	nicepLDDT: true

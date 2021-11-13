@@ -1,0 +1,10 @@
+---
+sequence_id: 0x02A1
+sequence_amino: "MIKMSRCLSCVLNLGTLAASTPGCTCSNQAQRPDFCLEPPYTGPCKARIIRYFYNKADCQFVYGGCRAGKKTNNFMKSAEDCMRTCGAIGPIWAMENLG"
+multi_target: false
+is_prokaryote: false
+tests_passed:
+	rightAmino: true
+	nicepLDDT: true
+
+	
