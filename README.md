@@ -1,1 +1,1 @@
-# example-gpt@fold
+# fewshot-proteins
