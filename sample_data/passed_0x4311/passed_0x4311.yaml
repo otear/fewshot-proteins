@@ -1,0 +1,8 @@
+---
+sequence_id: 0x4311
+sequence_amino: "ADDSGSASVHTNECDARQVS"
+multi_target: false
+is_prokaryote: false
+tests_passed:
+	rightAmino: true
+	nicepLDDT: true
